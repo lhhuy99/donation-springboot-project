@@ -16,6 +16,7 @@ The project offers the following functionalities:
 ## Deployment Guide (on local)
 ### Prerequisites:
   - Java 17 or higher
+  - Maven installed
   - MySQL
   - Eclipse (or any Java IDE)
 To run the project locally, follow these steps:
