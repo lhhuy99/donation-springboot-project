@@ -23,6 +23,8 @@ To run the project locally, follow these steps:
   1. Clone the Repository:
     git clone https://github.com/lhhuy99/donation-springboot-project.git
   2. Open project and run 2 file sql in mysql-setup folder
-  3. Open project in eclipse
-  4. Open class DonationProjectApplication.java in /DonationProject/src/main/java/com.huylhfx13483.assignment1 and right click Run as Java Application
-  5. On browser access at http://localhost:8080/ for user and http://localhost:8080/adminHomePage/home for admin
+  3. Build the project using Maven: mvn clean install
+  4. Run the application: mvn spring-boot:run
+  5. On browser access:
+     - For user: http://localhost:8080/
+     - For admin: http://localhost:8080/adminHomePage/home 
