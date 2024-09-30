@@ -21,7 +21,7 @@ The project offers the following functionalities:
   - Eclipse (or any Java IDE)
 To run the project locally, follow these steps:
   1. Clone the Repository:
-    git clone https://github.com/lhhuy99/donation-springboot-project
+    git clone https://github.com/lhhuy99/donation-springboot-project.git
   2. Open project and run 2 file sql in mysql-setup folder
   3. Open project in eclipse
   4. Open class DonationProjectApplication.java in /DonationProject/src/main/java/com.huylhfx13483.assignment1 and right click Run as Java Application
